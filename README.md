@@ -1,6 +1,3 @@
-Here's a well-formatted README with proper sections and tool usage, ensuring it looks polished and professional:
-
----
 
 # Task Management Web Application
 
